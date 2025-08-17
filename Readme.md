@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Himanshu Kumar<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently trying to do things better!<br>- 📫 How to reach me - Email: 365himanshukumar@gmail.com & Insta: @great_himanshu_27<br>- ⚡ Fun fact: I like to watch Anime 😌
+👋 Hi, I’m Himanshu Kumar<br>- 👀 I’m interested in Full-Stack Development<br>- 🌱 I’m currently trying to do things better!<br>- 📫 How to reach me - Email: 365himanshukumar@gmail.com & Insta: @great_himanshu_27<br>- ⚡ Fun fact: I like to watch Anime 😌
 
 
 ## 🌐 Socials:
